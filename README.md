@@ -4,14 +4,14 @@
 
 v10.1.0
 
-## Used
+## used
 
 reactjs, react-router, recompose, styled-components
 
-## Run development bundle
+## run development bundle
 yarn run dev
 http://localhost:3000/
 
-## Run production bundle
+## run production bundle
 yarn run build
 
