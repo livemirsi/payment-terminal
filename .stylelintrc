@@ -1,0 +1,17 @@
+{
+  "processors": ["stylelint-processor-styled-components"],
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-config-styled-components"
+  ],
+  "rules": {
+    "at-rule-no-unknown": [ true, {
+      "ignoreAtRules": [
+        "extends"
+      ]
+    }],
+    "indentation": ["tab"],
+    "block-no-empty": null,
+    "unit-whitelist": ["px", "%", "vw", "vh"]
+  }
+}
