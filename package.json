@@ -45,9 +45,9 @@
     "install": "^0.12.1",
     "jest": "^22.4.4",
     "prop-types": "^15.6.1",
+    "react-hot-loader": "^4.2.0",
     "react-addons-test-utils": "^15.6.2",
     "react-svg-inline": "^2.1.1",
-    "styled-components": "^3.2.6",
     "stylelint": "^9.2.1",
     "stylelint-config-standard": "^18.2.0",
     "stylelint-config-styled-components": "^0.1.1",
@@ -62,14 +62,10 @@
     "webpack-dev-server": "^3.1.4"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "styled-components": "^3.2.6",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
-    "react-hot-loader": "^4.2.0",
-    "react-redux": "^5.0.7",
     "react-router-dom": "^4.2.2",
-    "recompose": "^0.27.1",
-    "redux": "^4.0.0",
-    "redux-thunk": "^2.2.0"
+    "recompose": "^0.27.1"
   }
 }
