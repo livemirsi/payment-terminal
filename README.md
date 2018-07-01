@@ -15,3 +15,6 @@ http://localhost:3000/
 ## run production bundle
 yarn run build
 
+## run test
+yarn run test
+
