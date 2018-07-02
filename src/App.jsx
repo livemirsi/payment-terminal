@@ -21,7 +21,7 @@ class App extends Component {
 	render() {
 
 		return (
-			<BrowserRouter history={browserHistory} forceRefresh={true} >
+			<BrowserRouter history={browserHistory} >
 				{routes}
 			</BrowserRouter>
 		);
